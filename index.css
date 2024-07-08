@@ -1,0 +1,26 @@
+
+body {
+  background-image: url('back.jpg'); /* Replace with your image path */
+  background-size: cover; /* Cover the entire viewport */
+  background-position: center; /* Center the image */
+  margin: 0; /* Remove default margin */
+  font-family: 'Times New Roman', Times, serif ;
+  color: #000000; /* General text color */
+}
+
+
+code {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+  display: flex;            /* Enables flexbox on the container */
+  justify-content: center;  /* Centers items horizontally */
+  align-items: center;      /* Centers items vertically */
+  height: 100vh;            /* Full viewport height for vertical centering */
+}
+
+.button {
+  padding: 10px 20px;       /* Padding for the button */
+  font-size: 16px;          /* Font size for the button text */
+}

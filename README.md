@@ -25,12 +25,12 @@ Mindstorms is a quiz application built with React. It features a main page with 
    git clone https://github.com/your-username/mindsrorms.git
 
 2. Navigate to the project directory:
-     ```sh
-     cd mindstorms
+   ```sh
+   cd mindstorms
 
 3.Install the dependencies:
-     ```sh
-     npm install
+    ```sh
+    npm install
 
 4.Start the development server:
     ```sh

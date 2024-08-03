@@ -20,27 +20,26 @@ Mindstorms is a quiz application built with React. It features a main page with 
 
 ## Installation
 
-To get a local copy up and running, follow these steps:
-
 1. Clone the repository:
-   git clone https://github.com/nehaannie/mindstorms.git
+   ```sh
+   git clone https://github.com/your-username/mindsrorms.git
+Navigate to the project directory:
 
-   Navigate to the project directory:
-
-2.
+sh
 Copy code
 cd mindsrorms
 Install the dependencies:
 
-3.
+sh
 Copy code
 npm install
 Start the development server:
 
-4.
+sh
 Copy code
 npm start
-Usage
+
+## Usage
 Open your browser and navigate to http://localhost:3000.
 Click the "Start" button to begin the quiz.
 Answer the questions as they appear.
@@ -54,7 +53,7 @@ Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
-Contact
+## Contact
 nehaannie2002@gmail.com
 
 

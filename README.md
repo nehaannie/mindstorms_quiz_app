@@ -29,11 +29,11 @@ Mindstorms is a quiz application built with React. It features a main page with 
    cd mindstorms
 
 3.Install the dependencies:
-       ```sh
+      
       npm install
 
 4.Start the development server:
-     ```sh
+    
      npm start
 
 ## Usage

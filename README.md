@@ -23,20 +23,17 @@ Mindstorms is a quiz application built with React. It features a main page with 
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/mindsrorms.git
-Navigate to the project directory:
 
-sh
-Copy code
-cd mindsrorms
-Install the dependencies:
+2. Navigate to the project directory:
+  ```sh
+   cd mindstorms
 
-sh
-Copy code
+3.Install the dependencies:
+```sh
 npm install
-Start the development server:
 
-sh
-Copy code
+4.Start the development server:
+```sh
 npm start
 
 ## Usage
@@ -46,7 +43,7 @@ Answer the questions as they appear.
 View your score on the results page.
 
 ## Contributing
-Contributions are what make the open-source community such an amazing place to be, learn, and create. Any contributions you make are greatly appreciated.
+Contributions are what make the open-source community such an amazing place to be, learn, and create. Any contributions you make are greatly appreciated.<br>
 Fork the Project
 Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')
